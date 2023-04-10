@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[hugo castéras linkedin](https://www.linkedin.com/in/hugo-cast%C3%A9ras-968a92271/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo castéras" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hugo-cast%C3%A9ras-968a92271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo castéras" height="30" width="40" /></a>
 <a href="https://instagram.com/hugo_cstrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hugo_cstrs" height="30" width="40" /></a>
 </p>
 
