@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Castéras</h1>
-<h3 align="center">I'm a software engineer student from Holberton School Toulouse, France.</h3>
+<h3 align="center">I'm a software engineer student from Holberton School Toulouse, France.</h3><br>
 <img src="https://images.squarespace-cdn.com/content/v1/60bf70d860f31b4f60455443/5fbe5784-581c-4b7b-931f-8137e8f33476/Holberton+School.png">
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
