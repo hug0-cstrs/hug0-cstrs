@@ -3,7 +3,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/60bf70d860f31b4f60455443/5fbe5784-581c-4b7b-931f-8137e8f33476/Holberton+School.png">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
- [](https://github.com/hug0-cstrs/hug0-cstrs/blob/main/README.md)
+ 
 
 - 🌱 I’m currently learning **the C language.**
 
@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **: I love sports (football / handball / tennis)**
 
+[](https://github.com/hug0-cstrs/hug0-cstrs/blob/main/README.md)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hugo-cast%C3%A9ras-968a92271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo castéras" height="30" width="40" /></a>
