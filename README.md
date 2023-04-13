@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **: I love sports (football / handball / tennis)**
 
-[](https://github.com/hug0-cstrs/hug0-cstrs/blob/main/README.md)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hugo-cast%C3%A9ras-968a92271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo castéras" height="30" width="40" /></a>
