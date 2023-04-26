@@ -29,5 +29,5 @@
 ![C](https://img.shields.io/badge/≡-C-A8B9CC?logo=C&style=flat-square&labelColor=282828)
 ![GNU_Emacs](https://img.shields.io/badge/≡-GNU_Emacs-7F5AB6?logo=GNU-Emacs&style=flat-square&labelColor=282828)
 ![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)
-![GitHub](https://img.shields.io/badge/≡-Docker-181717?logo=Docker&style=flat-square&labelColor=282828)
+![GitHub](https://img.shields.io/badge/≡-Docker-1563FF?logo=Docker&style=flat-square&logoColor=1563FF&labelColor=282828)
 ![GitHub](https://img.shields.io/badge/≡-Linux-181717?logo=Linux&style=flat-square&labelColor=282828)
