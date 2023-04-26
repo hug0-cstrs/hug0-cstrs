@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Castéras</h1>
-  <h1 align="center"><a href="https://github.com/hug0-cstrs"><img src="https://readme-typing-svg.demolab.com?font=&color=0081CF&lines=Student+%2F+Developer+%2F+France+;%F0%9F%9A%80+Holberton+School+Toulouse;%F0%9F%96%A5+Define+Your+Future"></a>
-<img src="https://images.squarespace-cdn.com/content/v1/60bf70d860f31b4f60455443/5fbe5784-581c-4b7b-931f-8137e8f33476/Holberton+School.png"></h1>
+  <p align="center"><a href="https://github.com/hug0-cstrs"><img src="https://readme-typing-svg.demolab.com?font=&color=00CEF5&lines=Student+%2F+Developer+%2F+France+;%F0%9F%9A%80+Holberton+School+Toulouse;%F0%9F%96%A5+Define+Your+Future"></a>
+<img src="https://images.squarespace-cdn.com/content/v1/60bf70d860f31b4f60455443/5fbe5784-581c-4b7b-931f-8137e8f33476/Holberton+School.png"><br></p>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
