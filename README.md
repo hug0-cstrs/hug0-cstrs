@@ -31,3 +31,4 @@
 ![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)
 ![GitHub](https://img.shields.io/badge/≡-Docker-1563FF?logo=Docker&style=flat-square&logoColor=1563FF&labelColor=282828)
 ![GitHub](https://img.shields.io/badge/≡-Linux-181717?logo=Linux&style=flat-square&labelColor=282828)
+![GitHub](https://img.shields.io/badge/≡-Shell-181717?logo=Shell&style=flat-square&labelColor=282828)
