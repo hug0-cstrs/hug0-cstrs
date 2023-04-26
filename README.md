@@ -45,12 +45,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center"> 
-  <a href="https://github.com/hug0-cstrs"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+France+;%F0%9F%9A%80+Holberton+School+Toulouse;%F0%9F%96%A5+Define+Your+Futur"></a>
-
-</p>
- <p align="center">
-  <a href="#"> <img src="assets/2.gif"><a/>
-  <a href="#"><img src="assets/8.gif"><a/>
-  <a href="#"><img src="assets/0.gif"><a/>
-  <a href="#"><img src="assets/6.gif"><a/>
-</p>
+  <a href="https://github.com/hug0-cstrs"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+France+;%F0%9F%9A%80+Holberton+School+Toulouse;%F0%9F%96%A5+Define+Your+Future"></a>
