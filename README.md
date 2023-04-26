@@ -43,3 +43,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+ <p align="center">
+  <a href="#"> <img src="assets/2.gif"><a/>
+  <a href="#"><img src="assets/8.gif"><a/>
+  <a href="#"><img src="assets/0.gif"><a/>
+  <a href="#"><img src="assets/6.gif"><a/>
+</p>
