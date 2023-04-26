@@ -32,4 +32,4 @@
 ![GitHub](https://img.shields.io/badge/≡-Docker-1563FF?logo=Docker&style=flat-square&logoColor=1563FF&labelColor=282828)
 ![GitHub](https://img.shields.io/badge/≡-Linux-181717?logo=Linux&style=flat-square&labelColor=282828)
 ![GitHub](https://img.shields.io/badge/≡-Markdown-A8B9CC?logo=Markdown&style=flat-square&labelColor=282828)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/≡-c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
