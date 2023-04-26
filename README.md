@@ -44,6 +44,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<p align="center"> 
+  <a href="https://github.com/vikashPR"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Front-End+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+
 </p>
  <p align="center">
   <a href="#"> <img src="assets/2.gif"><a/>
