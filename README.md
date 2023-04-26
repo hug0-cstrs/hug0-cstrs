@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hugo Castéras</h1>
-<h3 align="center">I'm a software engineer student from Holberton School Toulouse, France.</h3><br>
+<p align="center"> 
+  <a href="https://github.com/hug0-cstrs"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+France+;%F0%9F%9A%80+Holberton+School+Toulouse;%F0%9F%96%A5+Define+Your+Future"></a>
 <img src="https://images.squarespace-cdn.com/content/v1/60bf70d860f31b4f60455443/5fbe5784-581c-4b7b-931f-8137e8f33476/Holberton+School.png">
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
@@ -44,5 +45,3 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center"> 
-  <a href="https://github.com/hug0-cstrs"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+France+;%F0%9F%9A%80+Holberton+School+Toulouse;%F0%9F%96%A5+Define+Your+Future"></a>
