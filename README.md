@@ -10,13 +10,13 @@
 
 - ⚡ Hobies **: Code :computer: and Sports (weight training 💪 football :soccer: handball :handball_person: tennis :tennis:)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hugo-casteras/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo castéras" height="30" width="40" /></a>
 <a href="https://instagram.com/hugo_cstrs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hugo_cstrs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><strong></strong>Languages and Tools:</strong></h3>
 <code><img height="40" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
