@@ -4,11 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
  
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **REact and Angular**
 
 - 📫 How to reach me **: 6263@holbertonstudents.com**
 
-- ⚡ Fun fact **: I love sports (football :soccer:/ handball :handball_person:/ tennis :tennis:)**
+- ⚡ Hobies **: Code :computer: and Sports (weight training 💪 football :soccer: handball :handball_person: tennis :tennis:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
