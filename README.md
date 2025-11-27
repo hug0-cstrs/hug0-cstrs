@@ -4,9 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computr">
  
-- 🌱 I’m currently learning **REACT and ANGULAR**
+- 🌱 I’m currently learning **Java and ANGULAR**
 
-- 📫 How to reach me **: 6263@holbertonstudents.com**
+- 📫 How to reach me **: hugo.casteras@outlook.fr**
 
 - ⚡ Hobies **: Code :computer: and Sports (weight training 💪 football :soccer: handball :handball_person: tennis :tennis:)**
 
